@@ -22,6 +22,7 @@ function ButClick(){
     }
     else{ 
         window.location.assign(whatsAppHref); 
+        console.log("Переход в Whatsapp")
     }
     
 }
